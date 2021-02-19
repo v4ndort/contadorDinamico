@@ -1,0 +1,28 @@
+body{
+
+    background-color: rgb(82, 0, 158);
+    font: normal 18pt Arial;
+}
+
+header{
+
+    color: cornsilk;
+    text-align: center;
+}
+
+section{
+
+    background: white;
+    border-radius: 12px;
+    padding: 15px;
+    width: 800px;
+    margin: auto;
+    box-shadow: rgba(0, 0, 0, 0.493);
+}
+
+footer{
+
+    color: blanchedalmond;
+    text-align: center;
+    font-style: italic;
+}
